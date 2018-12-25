@@ -1,0 +1,13 @@
+[package]
+name = "email_client"
+version = "0.1.0"
+authors = ["whl36512 <whl36512@gmail.com>"]
+
+[dependencies]
+lettre = "*"
+lettre_email = "*"
+env_logger= "*"
+native-tls= "*"
+log = "*"
+
+
